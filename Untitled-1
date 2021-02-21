@@ -1,0 +1,177 @@
+#!/bin/bash 
+
+
+read -p "Hidrojenin sembolü nedir?:> " Hidrojen
+if [[ $Hidrojen == "H" ]] ; then
+    echo "Aferin sana!"
+elif [[ $Hidrojen == "Bilmiyorum." ]] ; then
+    echo "Olsun,çalış tekrar dene!"
+else
+    echo "Yanlış,çalış ve tekrar dene."
+fi 
+
+read -p "Helyumun sembolü nedir?:> " Helyum
+if [[ $Helyum == "He" ]] ; then
+    echo "Aferin sana!"
+elif [[ $Helyum == "Bilmiyorum." ]] ; then
+    echo "Olsun,çalış tekrar dene!"
+else
+    echo "Yanlış,çalış ve tekrar dene."
+fi 
+
+read -p "Lityumun sembolü nedir?:> " Lityum
+if [[ $Lityum == "Li" ]] ; then
+    echo "Aferin sana!"
+elif [[ $Lityum == "Bilmiyorum." ]] ; then
+    echo "Olsun,çalış tekrar dene!"
+else
+    echo "Yanlış,çalış ve tekrar dene."
+fi 
+
+read -p "Berilyumun sembolü nedir?:> " Berilyum 
+if [[ $Berilyum == "Be" ]] ; then
+    echo "Aferin sana!"
+elif [[ $Berilyum == "Bilmiyorum." ]] ; then
+    echo "Olsun,çalış tekrar dene!"
+else
+    echo "Yanlış,çalış ve tekrar dene."
+fi 
+
+read -p "Borun sembolü nedir?:> " Bor 
+if [[ $Bor == "B" ]] ; then
+    echo "Aferin sana!"
+elif [[ $Bor == "Bilmiyorum." ]] ; then
+    echo "Olsun,çalış tekrar dene!"
+else
+    echo "Yanlış,çalış ve tekrar dene."
+fi 
+
+read -p "Karbonun sembolü nedir?:> " Karbon
+if [[ $Karbon == "C" ]] ; then
+    echo "Aferin sana!"
+elif [[ $Karbon == "Bilmiyorum." ]] ; then
+    echo "Olsun,çalış tekrar dene!"
+else
+    echo "Yanlış,çalış ve tekrar dene."
+fi 
+
+read -p "Azotun sembolü nedir?:> " Azot
+if [[ $Azot == "N" ]] ; then
+    echo "Aferin sana!"
+elif [[ $Azot == "Bilmiyorum." ]] ; then
+    echo "Olsun,çalış tekrar dene!"
+else
+    echo "Yanlış,çalış ve tekrar dene."
+fi 
+
+read -p "Oksijenin sembolü nedir?:> " Oksijen
+if [[ $Oksijen == "O" ]] ; then
+    echo "Aferin sana!"
+elif [[ $Oksijen == "Bilmiyorum." ]] ; then
+    echo "Olsun,çalış tekrar dene!"
+else
+    echo "Yanlış,çalış ve tekrar dene."
+fi 
+
+read -p "Neonun sembolü nedir?:> " Neon
+if [[ $Neon == "Ne" ]] ; then
+    echo "Aferin sana!"
+elif [[ $Flor == "Bilmiyorum." ]] ; then
+    echo "Olsun,çalış tekrar dene!"
+else
+    echo "Yanlış,çalış ve tekrar dene."
+fi 
+
+read -p "Sodyumun sembolü nedir?:> " Sodyum
+if [[ $Sodyum == "Na" ]] ; then
+    echo "Aferin sana!"
+elif [[ $Sodyum == "Bilmiyorum." ]] ; then
+    echo "Olsun,çalış tekrar dene!"
+else
+    echo "Yanlış,çalış ve tekrar dene."
+fi 
+
+read -p "Magnezyumun sembolü nedir?:> " Magnezyum
+if [[ $Magnezyum == "Mg" ]] ; then
+    echo "Aferin sana!"
+elif [[ $Magnezyum == "Bilmiyorum." ]] ; then
+    echo "Olsun,çalış tekrar dene!"
+else
+    echo "Yanlış,çalış ve tekrar dene."
+fi 
+
+read -p "Alüminyum sembolü nedir?:> " Aluminyum
+if [[ $Aluminyum == "Al" ]] ; then
+    echo "Aferin sana!"
+elif [[ $Aluminyum == "Bilmiyorum." ]] ; then
+    echo "Olsun,çalış tekrar dene!"
+else
+    echo "Yanlış,çalış ve tekrar dene."
+fi 
+
+read -p "Silisyumun sembolü nedir?:> " Silisyum
+if [[ $Silisyum == "Si" ]] ; then
+    echo "Aferin sana!"
+elif [[ $Silisyum == "Bilmiyorum." ]] ; then
+    echo "Olsun,çalış tekrar dene!"
+else
+    echo "Yanlış,çalış ve tekrar dene."
+fi 
+
+read -p "Fosforun sembolü nedir?:> " Fosfor
+if [[ $Fosfor == "P" ]] ; then
+    echo "Aferin sana!"
+elif [[ $Fosfor == "Bilmiyorum." ]] ; then
+    echo "Olsun,çalış tekrar dene!"
+else
+    echo "Yanlış,çalış ve tekrar dene."
+fi 
+
+read -p "Kükürtün sembolü nedir?:> " Kukurt
+if [[ $Kukurt == "S" ]] ; then
+    echo "Aferin sana!"
+elif [[ $Kukurt == "Bilmiyorum." ]] ; then
+    echo "Olsun,çalış tekrar dene!"
+else
+    echo "Yanlış,çalış ve tekrar dene."
+fi 
+
+read -p "Klorun sembolü nedir?:> " Klor
+if [[ $Klor == "Cl" ]] ; then
+    echo "Aferin sana!"
+elif [[ $Klor == "Bilmiyorum." ]] ; then
+    echo "Olsun,çalış tekrar dene!"
+else
+    echo "Yanlış,çalış ve tekrar dene."
+fi 
+
+read -p "Argonun sembolü nedir?:> " Argon
+if [[ $Argon == "Ar" ]] ; then
+    echo "Aferin sana!"
+elif [[ $Argon == "Bilmiyorum." ]] ; then
+    echo "Olsun,çalış tekrar dene!"
+else
+    echo "Yanlış,çalış ve tekrar dene."
+fi
+
+read -p "Potasyumun sembolü nedir?:> " Potasyum 
+if [[ $Potasyum == "K" ]] ; then
+    echo "Aferin sana!"
+elif [[ $Potasyum == "Bilmiyorum." ]] ; then
+    echo "Olsun,çalış tekrar dene!"
+else
+    echo "Yanlış,çalış ve tekrar dene."
+fi 
+
+read -p "Kalsiyumun sembolü nedir?:> " Kalsiyum
+if [[ $Kalsiyum == "Ca" ]] ; then
+    echo "Aferin sana!"
+elif [[ $Kalsiyum == "Bilmiyorum." ]] ; then
+    echo "Olsun,çalış tekrar dene!"
+else
+    echo "Yanlış,çalış ve tekrar dene."
+fi 
+
+
+
+
